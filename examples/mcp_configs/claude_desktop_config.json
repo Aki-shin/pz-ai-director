@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "pz-ai-director": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:/path/to/pz-ai-director",
+        "server.py"
+      ],
+      "env": {
+        "PZ_ZOMBOID_DIR": "C:/Users/YourName/Zomboid"
+      }
+    }
+  }
+}

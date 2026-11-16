@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "pz-ai-director": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:/path/to/pz-ai-director",
+        "server.py"
+      ]
+    }
+  }
+}

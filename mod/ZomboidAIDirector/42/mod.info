@@ -1,0 +1,8 @@
+name=Project Zomboid AI Director (MCP Bridge)
+id=ZomboidAIDirector
+description=Real-time AI Storyteller & Radio Dispatcher bridge for Project Zomboid Build 42. Connects live gameplay, radio frequencies, weather, hordes, vehicles, and supply drops to an MCP AI Director.
+poster=poster.png
+icon=icon.png
+category=features
+versionMin=42.0.0
+author=Antigravity AI Director

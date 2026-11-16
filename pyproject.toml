@@ -1,0 +1,18 @@
+[project]
+name = "pz-ai-director"
+version = "1.0.0"
+description = "Real-time AI Game Master & Radio Dispatcher MCP bridge for Project Zomboid Build 42."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+keywords = ["project-zomboid", "build-42", "mcp", "ai-director", "game-master"]
+dependencies = [
+    "mcp>=1.6.0",
+]
+
+[project.scripts]
+pz-ai-director = "pz_ai_director:main"
+
+[build-system]
+requires = ["uv_build>=0.13.8,<0.14.0"]
+build-backend = "uv_build"
