@@ -1,5 +1,7 @@
 # Project Zomboid AI Director (Build 42 MCP Bridge)
 
+![Project Zomboid AI Director — 98.4 MHz Extraction Command](assets/banner.jpg)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build 42](https://img.shields.io/badge/Project%20Zomboid-Build%2042%2B-orange.svg)](https://projectzomboid.com/)
 [![MCP](https://img.shields.io/badge/MCP-1.6%2B-blue.svg)](https://modelcontextprotocol.io/)

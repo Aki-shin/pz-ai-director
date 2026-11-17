@@ -1,5 +1,7 @@
 # Project Zomboid AI Director (Build 42 MCP Bridge)
 
+![Project Zomboid AI Director — 98.4 MHz Extraction Command](assets/banner.jpg)
+
 **[English version (README.md)](README.md)**
 
 Связка **серверного/клиентского мода на Lua под Project Zomboid Build 42** и **Python MCP-сервера**, превращающая Antigravity, Claude Desktop или Cursor в живого **ИИ-режиссёра и военного радиодиспетчера (`98.4 MHz`)** для одиночной игры и кооператива.
